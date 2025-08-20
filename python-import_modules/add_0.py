@@ -1,3 +1,4 @@
 #!/usr/bin/python3
 def add(a, b):
-    return a - b
+    """My addition function"""
+    return (a + b)
